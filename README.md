@@ -40,14 +40,14 @@
 
 ### Main skills:
 <div align="left"> 
-<img align="left" height="84" width="84" src="https://github.com/coioteTI/Elizeu-Santos/assets/98701737/025675f5-ca0a-4ca4-9d3c-2cfe432d6900">
+<img align="left" height="84" width="84" src="https://github.com/coioteTI/coioteTI/assets/98701737/8197fe0b-1987-4dd0-b631-0a19eb611fd9">
 <img align="left"  height="80" width="80"  src="https://github.com/MatheusAlvarez/MatheusAlvarez/assets/98701737/4198f896-cfb1-477b-91e4-5e2a1c031dd5">
-<img align="left"  height="80" width="80"  src="https://github.com/coioteTI/Elizeu-Santos/assets/98701737/2f08d718-aced-4d75-9d27-30666299e405">
-<img align="left"  height="80" width="80"  src="https://github.com/coioteTI/Elizeu-Santos/assets/98701737/6087f393-1a36-452a-a1d7-c3dab4693ca9">
-<img align="left"  height="80" width="80"  src="https://github.com/coioteTI/Elizeu-Santos/assets/98701737/a658add9-5cec-4034-a172-fbf06be4749e">
-<img align="left"  height="80" width="80"  src="https://github.com/coioteTI/Elizeu-Santos/assets/98701737/bb9cd21c-33df-4b63-a420-8a18d82959e1">
-<img align="left"  height="80" width="80"  src="https://github.com/coioteTI/Elizeu-Santos/assets/98701737/039774ff-b1f5-4b99-ad8f-d798cfd07cc9">
-<img align="left"  height="80" width="80"  src="https://github.com/coioteTI/Elizeu-Santos/assets/98701737/42552199-e855-47e2-8f3d-e255796b8998">
+<img align="left"  height="80" width="80"  src="https://github.com/coioteTI/coioteTI/assets/98701737/af9a9916-a890-4a14-9c0a-04d3ee985287">
+<img align="left"  height="80" width="80"  src="https://github.com/coioteTI/coioteTI/assets/98701737/5a5eb11f-53fb-41fa-8697-0f1eddfe8379">
+<img align="left"  height="80" width="80"  src="https://github.com/coioteTI/coioteTI/assets/98701737/8ad4697a-44de-4229-9497-88360eb1cd98">
+<img align="left"  height="80" width="80"  src="https://github.com/coioteTI/coioteTI/assets/98701737/b4319b7c-3759-4591-bc39-2ac1ba7d4365">
+<img align="left"  height="80" width="80"  src="https://github.com/coioteTI/coioteTI/assets/98701737/71ed34af-bbd0-4d03-b4cd-bf0c4fc92341">
+<img align="left"  height="80" width="80"  src="https://github.com/coioteTI/coioteTI/assets/98701737/a9a9297b-9ea1-4a98-8f14-db0a76c372be">
 <img align="https://github.com/coioteTI/Elizeu-Santos/assets/98701737/f33bd8cd-9191-4cab-9183-79a29e1bbebf">
 </div>
 
@@ -60,9 +60,9 @@
 
 <div align="left"> 
 
-<img align="left"  height="80" width="80" src="https://github.com/coioteTI/Elizeu-Santos/assets/98701737/6c8e39a7-3d01-49bf-b301-24aa658bffa6">
-<img align="left"  height="95" width="95" src="https://github.com/coioteTI/Elizeu-Santos/assets/98701737/b899f150-3800-40ee-a1cf-857ff9d18e3f">
-<img align="left"  height="80" width="80" src="https://github.com/coioteTI/Elizeu-Santos/assets/98701737/4da8721f-78f0-4802-beed-7a497200827c">
+<img align="left"  height="80" width="80" src="https://github.com/coioteTI/coioteTI/assets/98701737/56187aa2-c8b7-4b2a-8049-501f88d0eb66">
+<img align="left"  height="95" width="95" src="https://github.com/coioteTI/coioteTI/assets/98701737/192ff8dc-5d7c-4862-82f0-c77844753c91">
+<img align="left"  height="80" width="80" src="https://github.com/coioteTI/coioteTI/assets/98701737/edec7919-d197-469d-946f-11655c7226b1">
 
 </div>
 
