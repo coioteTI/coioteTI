@@ -39,7 +39,7 @@
 <br>
 
 
-### Main skills:
+### knowledge:
 <img align="left" height="84" width="84" src="https://github.com/coioteTI/coioteTI/assets/98701737/535460d1-9c31-42fe-945e-463e6364233e">
 <img align="left" height="84" width="84" src="https://github.com/coioteTI/coioteTI/assets/98701737/8197fe0b-1987-4dd0-b631-0a19eb611fd9">
 
