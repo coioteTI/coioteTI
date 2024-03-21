@@ -59,7 +59,7 @@
 <h2 align="left"> Studying in this moment: </h2>
 
 <div align="left"> 
-
+<img align="left"  height="80" width="80" src="https://github.com/coioteTI/coioteTI/assets/98701737/b38fefdb-c19e-4e58-a4b3-e9c1851026ab">
 <img align="left"  height="80" width="80" src="https://github.com/coioteTI/coioteTI/assets/98701737/56187aa2-c8b7-4b2a-8049-501f88d0eb66">
 <img align="left"  height="95" width="95" src="https://github.com/coioteTI/coioteTI/assets/98701737/192ff8dc-5d7c-4862-82f0-c77844753c91">
 <img align="left"  height="80" width="80" src="https://github.com/coioteTI/coioteTI/assets/98701737/edec7919-d197-469d-946f-11655c7226b1">
