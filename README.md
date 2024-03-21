@@ -38,8 +38,8 @@
 <br>
 <br>
 
-
 ### knowledge:
+<img align="left"  height="80" width="80" src="https://github.com/coioteTI/coioteTI/assets/98701737/b38fefdb-c19e-4e58-a4b3-e9c1851026ab">
 <img align="left" height="84" width="84" src="https://github.com/coioteTI/coioteTI/assets/98701737/535460d1-9c31-42fe-945e-463e6364233e">
 <img align="left" height="84" width="84" src="https://github.com/coioteTI/coioteTI/assets/98701737/8197fe0b-1987-4dd0-b631-0a19eb611fd9">
 
@@ -48,7 +48,7 @@
 <br>
 <br>
 
-### Main skills:
+<h2 align="left"> Main skills: </h2>
 <div align="left"> 
 <img align="left"  height="80" width="80"  src="https://github.com/MatheusAlvarez/MatheusAlvarez/assets/98701737/4198f896-cfb1-477b-91e4-5e2a1c031dd5">
 <img align="left"  height="80" width="80"  src="https://github.com/coioteTI/coioteTI/assets/98701737/af9a9916-a890-4a14-9c0a-04d3ee985287">
@@ -68,7 +68,6 @@
 <h2 align="left"> Studying in this moment: </h2>
 
 <div align="left"> 
-<img align="left"  height="80" width="80" src="https://github.com/coioteTI/coioteTI/assets/98701737/b38fefdb-c19e-4e58-a4b3-e9c1851026ab">
 <img align="left"  height="80" width="80" src="https://github.com/coioteTI/coioteTI/assets/98701737/56187aa2-c8b7-4b2a-8049-501f88d0eb66">
 <img align="left"  height="95" width="95" src="https://github.com/coioteTI/coioteTI/assets/98701737/192ff8dc-5d7c-4862-82f0-c77844753c91">
 <img align="left"  height="80" width="80" src="https://github.com/coioteTI/coioteTI/assets/98701737/edec7919-d197-469d-946f-11655c7226b1">
