@@ -38,9 +38,18 @@
 <br>
 <br>
 
+
+### Main skills:
+<img align="left" height="84" width="84" src="https://github.com/coioteTI/coioteTI/assets/98701737/535460d1-9c31-42fe-945e-463e6364233e">
+<img align="left" height="84" width="84" src="https://github.com/coioteTI/coioteTI/assets/98701737/8197fe0b-1987-4dd0-b631-0a19eb611fd9">
+
+<br>
+<br>
+<br>
+<br>
+
 ### Main skills:
 <div align="left"> 
-<img align="left" height="84" width="84" src="https://github.com/coioteTI/coioteTI/assets/98701737/8197fe0b-1987-4dd0-b631-0a19eb611fd9">
 <img align="left"  height="80" width="80"  src="https://github.com/MatheusAlvarez/MatheusAlvarez/assets/98701737/4198f896-cfb1-477b-91e4-5e2a1c031dd5">
 <img align="left"  height="80" width="80"  src="https://github.com/coioteTI/coioteTI/assets/98701737/af9a9916-a890-4a14-9c0a-04d3ee985287">
 <img align="left"  height="80" width="80"  src="https://github.com/coioteTI/coioteTI/assets/98701737/5a5eb11f-53fb-41fa-8697-0f1eddfe8379">
